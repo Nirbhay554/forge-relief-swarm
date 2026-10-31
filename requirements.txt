@@ -1,0 +1,10 @@
+streamlit
+folium
+streamlit-folium
+pandas
+polyline
+python-dotenv
+requests
+supabase
+langgraph
+langchain-google-genai
